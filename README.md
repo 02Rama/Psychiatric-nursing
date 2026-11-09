@@ -29,4 +29,4 @@ Open `index.html` in any browser. No install, no dependencies.
 Educational, hypothetical scenario. A psychiatric diagnosis does not make a patient dangerous.
 Authorization, monitoring and documentation requirements vary by law and hospital policy;
 always follow your course reference and local protocol.
-
+..
